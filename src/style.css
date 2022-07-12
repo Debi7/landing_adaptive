@@ -45,9 +45,6 @@
     margin: 0 auto;
     width: 1512px;
     height: 3382px;
-
-
-    /* TODO  */
     background-color: #E5E5E5;
 }
 
@@ -502,9 +499,6 @@
     justify-content: space-between;
     background-color: #E5E5E5;
     height: 421px;
-
-    /* TODO  */
-    /* transition: left 500ms linear; */
 }
 
 .slides__item {
@@ -517,9 +511,6 @@
     border-radius: 30px;
     width: 372px;
     padding: 20px;
-
-    /* TODO  */
-    /* transition: all 1.2s ease-in-out; */
 
     -moz-transition: transform 5s;
     -webkit-transition: transform 5s;
